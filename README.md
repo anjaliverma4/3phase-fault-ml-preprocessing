@@ -230,5 +230,3 @@ Executing `preprocessing.py` produces clean, ML-ready CSVs in the `outputs/` dir
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - feel free to use and adapt it for academic and commercial projects.
